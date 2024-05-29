@@ -39,7 +39,7 @@
 
 ## Font Import
 
-```css
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
 
 - Imports the Montserrat font with a weight of 900 for the entire document.
