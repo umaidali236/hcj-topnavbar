@@ -1,4 +1,4 @@
-# HTML Notes
+# Creating a Top-Navbar
 
 ## Structure:
 - `<!DOCTYPE html>`: Declaration of the document type and version of HTML being used.
