@@ -184,7 +184,7 @@ nav {
 
 # JavaScript
 
-```js
+```JS
 console.log(`${Date()} :: This is a starter template for a simple web app.`);
 ```
 This line of code is written in JavaScript and uses template literals to log a message to the console along with the current date and time.
