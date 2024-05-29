@@ -182,7 +182,26 @@ nav {
 ```
 - Styles the footer with background color and specific font styles.
 
-  
+# JavaScript
+This line of code is written in JavaScript and uses template literals to log a message to the console along with the current date and time.
+
+Let's break it down:
+
+- `console.log()`: This is a function provided by the JavaScript console object, which is a tool available in most web browsers for logging messages, errors, and other information.
+
+- `${Date()}`: This part uses a template literal, denoted by the backticks (` `), to embed the result of the `Date()` function within the string. `Date()` is a built-in JavaScript function that returns the current date and time as a string.
+
+- `::`: This is simply a separator to make the message more readable. It's a common convention to use symbols like `::` or `||` as separators in log messages.
+
+- `This is a starter template for a simple web app.`: This is a static string message that is included in the log.
+
+So when this line of code is executed, it will print something like this to the console:
+
+```
+Thu May 30 2024 13:42:20 GMT+0300 (Eastern European Summer Time) :: This is a starter template for a simple web app.
+```
+
+The exact date and time will vary depending on when the code is executed.  
 
 
 
