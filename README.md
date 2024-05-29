@@ -35,7 +35,6 @@
 - Validate HTML code for any syntax errors.
 
 # CSS
-```markdown
 
 ## Font Import
 
