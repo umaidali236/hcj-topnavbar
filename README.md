@@ -34,8 +34,6 @@
 - Check if all necessary files (`styles.css`, `script.js`, `favicon.ico`, `Banner.PNG`) are present and linked correctly.
 - Validate HTML code for any syntax errors.
 
-Sure, here's the content formatted into a single Markdown file:
-
 ```markdown
 # CSS Notes
 
@@ -185,7 +183,5 @@ nav {
 ```
 - Styles the footer with background color and specific font styles.
 
-These notes cover the key CSS styles applied in the provided code.
 ```
 
-You can save this content in a file with a `.md` extension, such as `css_notes.md`. Let me know if you need further assistance!
