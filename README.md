@@ -182,5 +182,7 @@ nav {
 ```
 - Styles the footer with background color and specific font styles.
 
+  
+
 
 
