@@ -34,11 +34,9 @@
 - Check if all necessary files (`styles.css`, `script.js`, `favicon.ico`, `Banner.PNG`) are present and linked correctly.
 - Validate HTML code for any syntax errors.
 
+# CSS
 ```css
-# CSS Notes
-
 ## Font Import
-
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
 
