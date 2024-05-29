@@ -34,7 +34,7 @@
 - Check if all necessary files (`styles.css`, `script.js`, `favicon.ico`, `Banner.PNG`) are present and linked correctly.
 - Validate HTML code for any syntax errors.
 
-
+```css
 # CSS Notes
 
 ## Font Import
