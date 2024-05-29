@@ -183,6 +183,10 @@ nav {
 - Styles the footer with background color and specific font styles.
 
 # JavaScript
+
+```js
+console.log(`${Date()} :: This is a starter template for a simple web app.`);
+```
 This line of code is written in JavaScript and uses template literals to log a message to the console along with the current date and time.
 
 Let's break it down:
