@@ -58,8 +58,8 @@ body {
     font-size: 0.875rem;
 }
 
-    Applies border-box sizing to all elements.
-    Sets font family, margin, padding, height, line height, and font size for the body.
+    - Applies border-box sizing to all elements.
+    - Sets font family, margin, padding, height, line height, and font size for the body.
 
 ## Heading Styles
 
