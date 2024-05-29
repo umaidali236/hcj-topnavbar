@@ -184,7 +184,7 @@ nav {
 
 # JavaScript
 
-```JS
+```js
 console.log(`${Date()} :: This is a starter template for a simple web app.`);
 ```
 This line of code is written in JavaScript and uses template literals to log a message to the console along with the current date and time.
@@ -193,7 +193,7 @@ Let's break it down:
 
 - `console.log()`: This is a function provided by the JavaScript console object, which is a tool available in most web browsers for logging messages, errors, and other information.
 
-- `${Date()}`: This part uses a template literal, denoted by the backticks (` ` ` `), to embed the result of the `Date()` function within the string. `Date()` is a built-in JavaScript function that returns the current date and time as a string.
+- `${Date()}`: This part uses a template literal, denoted by the backticks (" ` ` "), to embed the result of the `Date()` function within the string. `Date()` is a built-in JavaScript function that returns the current date and time as a string.
 
 - `::`: This is simply a separator to make the message more readable. It's a common convention to use symbols like `::` or `||` as separators in log messages.
 
