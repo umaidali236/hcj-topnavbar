@@ -1,6 +1,6 @@
 # Creating a Top-Navbar
 
-## Structure:
+## HTML 
 - `<!DOCTYPE html>`: Declaration of the document type and version of HTML being used.
 - `<html lang="en">`: The root element of the HTML document, specifying the language as English.
 
