@@ -45,7 +45,7 @@ markdown
 
 ## Global Styles
 
-* {
+ {
     box-sizing: border-box;
 }
 
